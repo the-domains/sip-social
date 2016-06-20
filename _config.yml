@@ -1,6 +1,6 @@
 name: Sip Social
 favicon: null
-layout_spectrum: 0.95125
+layout_spectrum: 0.59171
 typography_spectrum: 0.77234
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0f0106'
-    - '#6e5bcc'
-    - '#c5461c'
-    - '#fe7d3e'
-    - '#781b1d'
+    - '#fefefe'
+    - '#392a2f'
+    - '#979990'
+    - '#ccc5aa'
+    - '#757276'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
